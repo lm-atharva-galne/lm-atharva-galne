@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Add your GIF here after uploading -->
-  <img src="./profile.gif" width="420" />
+  <img src="./coding (1).gif" width="420" />
 </p>
 
 ---

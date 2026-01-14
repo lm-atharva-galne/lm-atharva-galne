@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Atharva</h1>
 
 <p align="center">
-  <b>Backend Developer • Machine Learning • High-Performance Engineering</b>
+  <b>Backend • Machine Learning • High-Performance Engineering</b>
 </p>
 
 <p align="center">
